@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(8),
             color: Colors.white,
-              boxShadow: NTShadows.thirty
+              boxShadow: NTShadows.thirty // There is a shadow.
             ),
           ),
         ),
