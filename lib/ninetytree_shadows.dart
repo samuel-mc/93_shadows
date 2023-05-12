@@ -1,4 +1,4 @@
-library ninetytree_shadows;
+library ninetythree_shadows;
 
 import 'package:flutter/material.dart';
 
